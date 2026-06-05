@@ -1,0 +1,17 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ADK session storage
+.adk/
+
+# Environment variables (contains API keys!)
+.env
+
+# Mac system files
+.DS_Store
