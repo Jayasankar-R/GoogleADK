@@ -19,3 +19,4 @@ adk web
 - **greeting_agent** — handles hi/bye
 - **weather_agent** — fetches weather
 - **safety_agent** — blocks unsafe queries
+- **streaming_agent** — STT and TTS
